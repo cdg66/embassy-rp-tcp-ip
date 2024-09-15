@@ -5,7 +5,7 @@
 </p>
 
 The **Embassy RP Skeleton** repository is a project template intended as a starting point for developing your own
-firmware for the [`rp2040`][1] based on the [`embassy`][2] asynchronous embedded development framework for [Rust][3].
+firmware for the [`rp2040`][1] based on the [`embassy`][2] asynchronous embedded development framework for [Rust][3]. This fork as been modified to provide a template to implement a usb ethernet module. 
 
 It includes all of the [`knurling-rs`][4] tooling ([`defmt`][5], [`defmt-rtt`][5], [`panic-probe`][5], [`flip-link`][6],
 [`probe-run`][7]) to enhance the embedded development process.
